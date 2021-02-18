@@ -104,7 +104,7 @@ phone = "+45 5157 4948"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = [There's no office", "There is corona"]
+office_hours = ["There's no office", "There is corona"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
