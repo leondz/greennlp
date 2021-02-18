@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Green Natural Language Processing"
+org_name = "Green NLP"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "How to make your NLP work greener. Reduce costs, reduce training emissions, deploy green solutions. Only advice and resources, no sales."
